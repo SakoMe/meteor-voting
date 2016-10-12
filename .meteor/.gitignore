@@ -1,0 +1,4 @@
+local
+.meteor/local
+settings.json
+public/node_modules
